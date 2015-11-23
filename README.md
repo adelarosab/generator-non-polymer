@@ -25,11 +25,11 @@ Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he
 MIT © [Adrián de la Rosa]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-polymer-polywhat.svg
-[npm-url]: https://npmjs.org/package/generator-polymer-polywhat
-[travis-image]: https://travis-ci.org/adelarosab/generator-polymer-polywhat.svg?branch=master
-[travis-url]: https://travis-ci.org/adelarosab/generator-polymer-polywhat
-[daviddm-image]: https://david-dm.org/adelarosab/generator-polymer-polywhat.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/adelarosab/generator-polymer-polywhat
-[coveralls-image]: https://coveralls.io/repos/adelarosab/generator-polymer-polywhat/badge.svg
-[coveralls-url]: https://coveralls.io/r/adelarosab/generator-polymer-polywhat
+[npm-image]: https://badge.fury.io/js/generator-non-polymer.svg
+[npm-url]: https://npmjs.org/package/generator-non-polymer
+[travis-image]: https://travis-ci.org/adelarosab/generator-non-polymer.svg?branch=master
+[travis-url]: https://travis-ci.org/adelarosab/generator-non-polymer
+[daviddm-image]: https://david-dm.org/adelarosab/generator-non-polymer.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/adelarosab/generator-non-polymer
+[coveralls-image]: https://coveralls.io/repos/adelarosab/generator-non-polymer/badge.svg
+[coveralls-url]: https://coveralls.io/r/adelarosab/generator-non-polymer
