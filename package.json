@@ -1,0 +1,27 @@
+{
+  "name": "generator-non-polymer",
+  "version": "1.0.0",
+  "description": "Non-official Polymer generator.",
+  "author": "Adrian de la Rosa <adrian@delarosab.me>",
+  "files": [
+    "generators"
+  ],
+  "main": "generators/app/index.js",
+  "keywords": [
+    "coffeescript",
+    "coffee-script",
+    "polymer",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "validate-element-name": "^1.0.0",
+    "yeoman-generator": "^0.21.1",
+    "yosay": "^1.0.0"
+  },
+  "repository": "adelarosab/generator-polymer-polywhat",
+  "license": "MIT",
+  "devDependencies": {
+    "validate-element-name": "^1.0.0"
+  }
+}
